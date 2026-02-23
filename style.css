@@ -1,0 +1,47 @@
+
+
+.austria-flag {
+    width: 300px;
+    height: 100px;
+    border-top: 100px solid #EF3340;
+    border-bottom: 100px solid #EF3340; 
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.indonesia
+{
+
+    width: 300px;
+    height: 100px;
+    border-top: 100px solid #EF3340;
+    text-align: center;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.5)
+
+}
+
+body {
+    display:block  ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; 
+}
+
+.flag {
+    width: 300px; 
+    height: 200px; 
+    background-color: #FFFFFF; 
+    border: 1px solid #0000002c; 
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    background-color: #BC002D;
+    border-radius: 50%;
+}
